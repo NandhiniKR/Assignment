@@ -15,7 +15,7 @@ public class CountNumberOccurance {
 	        int[] number = new int[100];
 
 	       
-	        System.out.print("Enter the Nos. (Enter 0 to end the Input) : ");
+	        System.out.print("Enter the Nos. [Enter 0 to end the Input] : ");
 	        for (int i = 0; i < number.length; i++) {
 	            int a = input.nextInt();
 	            number[a] += a;
