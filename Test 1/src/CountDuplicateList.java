@@ -24,6 +24,7 @@
 		list.add("a");
 		list.add("a");
 
+		System.out.println("Commit and push Ex: 2");
 		System.out.println("\nExample 1 - Count 'a' with frequency");
 		System.out.println("a : " + Collections.frequency(list, "a"));
 
